@@ -25,7 +25,7 @@ Me motiva aprender, colaborar y crear soluciones que generen impacto positivo.
 - Me gustan los retos, los nuevos aprendizajes y miro cada proyecto desde lo que puedo aportar y aprender.  
 - Actualmente profundizo en React, Next.js y accesibilidad web (WCAG). 
 - Valoro el trabajo en equipo y aplico metodologías ágiles como Scrum y Design Thinking. 
-- Amante del café, el arte y los retos que impulsan la creatividad  
+- Amante de la sandia, el arte y los retos que impulsan la creatividad  
 
 
 ---
